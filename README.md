@@ -10,5 +10,4 @@
 - Feel free to contact me will surely revert back
 - 😄 Pronouns: Ayush.................. 
 - ⚡ Fun fact: Do not argue with an idiot. He will drag you down to his level and beat you with experience..................
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhich-are-you-programmer-or-coder-b24ca679febb&psig=AOvVaw3V3lI1U5JsuJPu0_vlTSr1&ust=1619950466626000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLCa5vKfqPACFQAAAAAdAAAAABAI">
+<img src="https://github-readme-stats.vercel.app/api?username=This-is-Ayush-Sharma&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
