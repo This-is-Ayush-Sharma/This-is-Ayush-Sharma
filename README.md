@@ -9,7 +9,7 @@
 - Facebook:- https://www.facebook.com/profile.php?id=100006639769081
 - Gmail:-    thisisayush79@gmail.com
 - Linkedin:-  https://www.linkedin.com/in/ayush-sharma-551133213/
-- Website for c Code compilation for free https://online-compiler-c.herokuapp.com/
+- Website for c Code compilation for  https://online-compiler-c.herokuapp.com/
 - Feel free to contact me will surely revert back
 - 😄 Pronouns: Ayush.................. 
 - ⚡ Fun fact: Do not argue with an idiot. He will drag you down to his level and beat you with experience..................
