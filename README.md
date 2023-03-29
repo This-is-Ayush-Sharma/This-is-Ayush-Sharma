@@ -1,6 +1,14 @@
 # Ayush Sharma
 # 💫 About Me:
-🔭 I’m currently a Student<br>🌱 I’m currently learning Web-dev<br>👯 I’m looking to collaborate on Github...<br>🤔 I’m looking for help with my messy code ^_^<br>💬 Ask me about any tech related stuff
+My name is Ayush Sharma, and I am currently pursuing a B.Tech in Computer Science and Engineering. I am in my third year of studies and am passionate about exploring the various aspects of this field.
+
+Throughout my academic journey, I have developed a strong foundation in programming languages such as Java, Python, and Javascript. I have also gained experience in data structures, algorithms, and database management systems. Additionally, I am continually seeking new challenges and opportunities to learn and grow.
+
+Apart from academics, I am an active member of various technical societies and clubs in my college. I believe that participation in such activities enhances one's practical knowledge and helps in developing crucial interpersonal and leadership skills.
+
+In the future, I aspire to work in the tech industry, where I can leverage my skills and knowledge to build innovative and impactful solutions. I am keen to explore the different domains of computer science, such as artificial intelligence, machine learning, and cybersecurity, and contribute to the advancements in these areas.
+
+Thank you for visiting my profile, and I look forward to connecting with like-minded professionals in the industry.
 
 
 ## 🌐 Socials:
